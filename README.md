@@ -1,4 +1,4 @@
-# Shorten URL Microservice
+# Shorten URL Microservice [![Build Status](https://travis-ci.org/anonymint/shorten-service.svg?branch=master)](https://travis-ci.org/anonymint/shorten-service)
 
 You pass in the URL you want to shorten and you can get a shorten version of it.
 
